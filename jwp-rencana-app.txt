@@ -4,6 +4,7 @@ RENCANA KONTEN JWP
   * node
   * framwork node.js
     - Vue
+    - React
 - Struktur Data Dasar
 - PHP
   - Laravel
